@@ -1,0 +1,109 @@
+# Blender MTL File: 'Goblin.blend'
+# Material Count: 10
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl body
+Ns 62.745098
+Ka 0.000000 0.000000 0.000000
+Kd 0.056288 0.059371 0.042289
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/texture.png
+map_Bump textures/normal_3.png
+
+newmtl bone
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.260563 0.260563 0.260563
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Scythe_texture.png
+map_Bump textures/Scythe_normal.png
+
+newmtl boots
+Ns 115.686275
+Ka 0.000000 0.000000 0.000000
+Kd 0.012796 0.010404 0.008018
+Ks 0.091398 0.091398 0.091398
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/texture.png
+map_Bump textures/normal_3.png
+
+newmtl cloths
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.013910 0.008232 0.006443
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd textures/texture.png
+map_Bump textures/normal_3.png
+
+newmtl eyes
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/texture.png
+map_Bump textures/normal_3.png
+
+newmtl others
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.025000 0.025000 0.025000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Scythe_texture.png
+map_Bump textures/Scythe_normal.png
+
+newmtl pupil
+Ns 798.039216
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 0.974300 0.933333
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/texture.png
+map_Bump textures/normal_3.png
+
+newmtl teeth
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.474061 0.465280 0.249605
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/texture.png
+map_Bump textures/normal_3.png
+
+newmtl wood
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.025000 0.025000 0.025000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Scythe_texture.png
+map_Bump textures/Scythe_normal.png
